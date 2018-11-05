@@ -1,1 +1,1 @@
-# 1) Check each word in reverse.
+ 1) Check each word in reverse.

@@ -1,5 +1,5 @@
 Exercice 1: Good first program
-> Focus on the details
+- Focus on the details
 
 Exercice 2: Comments and pound characters
 - Backward check

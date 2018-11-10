@@ -1,5 +1,5 @@
 .to_i :
-> convert to an integer
+- convert to an integer
 
 .to_f :
-> converte to an integer decimal
+- converte to an integer decimal

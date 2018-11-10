@@ -38,5 +38,13 @@ Exercice 11: Asking questions
 - gets.strip
 
 Exercice 12: Prompting people for numbers
+- to_i
+- to_f
+
 Exercice 13: Parameters unpacking variables
+- ARGV
+- $stdin.gets.chomp
+
 Exercice 14: Prompting and passing
+- ARGV with one argument
+- Triple quotes

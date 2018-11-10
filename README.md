@@ -1,6 +1,9 @@
 Exercice 1: Good first program
+> Focus on the details
 
 Exercice 2: Comments and pound characters
+- Backward check
+- Comment you code
 Exercice 3: Numbers and math
 Exercice 4: Variables and names
 Exercice 5: More variables and printing

@@ -1,2 +1,2 @@
 """
-> Triple quotes
+- Triple quotes

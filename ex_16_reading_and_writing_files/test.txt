@@ -1,1 +1,3 @@
-%{first} %{second} %{third}
+Je suis aller chez le boulanger
+Il m'a offert un croissant
+Je l'ai manger à la maison

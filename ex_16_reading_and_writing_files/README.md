@@ -7,3 +7,6 @@ Some commands for files:
 - `write('stuff')` -- Writes "stuff" to the file
 - `seek(0)`-- Move the read/write location to the beginning of the file.
 
+Problem met: replace `target.write` in one line 
+
+WARNING: Simple is often the right way !!  

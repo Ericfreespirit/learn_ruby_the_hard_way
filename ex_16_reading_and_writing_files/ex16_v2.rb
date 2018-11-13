@@ -16,7 +16,7 @@ puts "Now I'm going to ask you for three lines."
 
 print 'line 1: '
 line1 = $stdin.gets.chomp
-print 'line 1: '
+print 'line 2: '
 line2 = $stdin.gets.chomp
 print 'line 3: '
 line3 = $stdin.gets.chomp
@@ -24,9 +24,7 @@ line3 = $stdin.gets.chomp
 puts "I'm going to write these to the file."
 
 
-line = "%{first} %{second} %{third}"
-line % {first: "#{line1}\n", second: "#{line2}\n", third: "#{line3}\n"}
-target.write(line)
+target.write("#{line1}\n#{line2}\n#{line3}")
 
 puts 'And finally, we close it.'
 target.close

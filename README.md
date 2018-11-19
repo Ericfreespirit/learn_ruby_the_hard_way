@@ -48,3 +48,13 @@ Exercice 13: Parameters unpacking variables
 Exercice 14: Prompting and passing
 - ARGV with one argument
 - Triple quotes
+
+Exercice 15: Reading files
+- Use ARGV and $stdin.gets.chomp both
+- irb: read and open files
+
+Exercice 16: Reading and Writing Files
+- All command for reading and writing files
+
+Exercice 17: More Files
+- Copy file

@@ -1,20 +1,18 @@
-input_file = ARGV.first # test.txt
+input_file = ARGV.first
 
-# reading input test.txt
-def print_all(f) 
+def print_all(f)
   puts f.read
 end
 
-# searching at line 0
 def rewind(f)
   f.seek(0)
 end
 
 def print_a_line(line_count, f)
-  puts "#{line_count}, #{f}"
+  puts "#{line_count}, #{f.gets.chomp}"
 end
 
-current_file = open(input_file) # open test.txt
+current_file = open(input_file)
 
 puts "First let's print the whole file:\n"
 
@@ -34,4 +32,3 @@ print_a_line(current_line, current_file)
 
 current_line = current_line + 1
 print_a_line(current_line, current_file)
-

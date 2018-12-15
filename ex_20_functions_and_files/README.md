@@ -1,3 +1,2 @@
-This is line 1
-This is line 2
-This line 3
+- `.seek(0)`
+> Rewind

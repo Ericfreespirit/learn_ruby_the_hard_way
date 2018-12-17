@@ -1,0 +1,1 @@
+Make a list of all symboll that we saw in the previous exerices

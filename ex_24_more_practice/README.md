@@ -10,4 +10,4 @@
 > superimpose these 3 variables beans, jars and crates on the variable secret_formula
 
 - `puts "We'd have %s beans, %d jars, and %d crates." % secret_formula(start_point)`
-> ????
+> ???
